@@ -15,7 +15,7 @@ jobs:
         run: |
           git config --global user.email "wholesome.ghoul@gmail.com"
           git config --global user.name "Wholesome Ghoul"
-          npx standard-version --skip.commit
+          npx standard-version -i RELEASE_BODY.md --skip.commit
       - name: publish tag
         id: publish_tag
         run: |
@@ -28,4 +28,4 @@ jobs:
         with:
           release_name: Release ${{ steps.publish_tag.outputs.tag_name }}
           tag_name: ${{ steps.publish_tag.outputs.tag_name }}
-          body_path: CHANGELOG.md
+          body_path: RELEASE_BODY.md
