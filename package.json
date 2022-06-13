@@ -1,6 +1,6 @@
 {
   "name": "test-changelog",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "main": "index.js",
   "repository": "git@github.com-wholesome:wholesome-ghoul/test-changelog.git",
   "author": "Wholesome Ghoul <wholesome.ghoul@gmail.com>",

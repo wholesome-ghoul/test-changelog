@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/mokkapps/changelog-generator-demo/compare/v2.1.0...v2.2.0) (2022-06-13)
+
+
+### Updates
+
+* oi oi oi ([be281b7](https://github.com/mokkapps/changelog-generator-demo/commits/be281b748a4e39fbc67d7369e9b09145286c78b8))
+* oops ([e9cead5](https://github.com/mokkapps/changelog-generator-demo/commits/e9cead5ffd2e25cf68f75f825c1a037a0981306c))
+* ou yeah ([033f79b](https://github.com/mokkapps/changelog-generator-demo/commits/033f79be46bb55d20086e437eb14e8ce817e64ed))
+* test 2 ([534a3f6](https://github.com/mokkapps/changelog-generator-demo/commits/534a3f649cad9ea6517bc8db25f78c79751f4420))
+* update release workflow ([40abc0a](https://github.com/mokkapps/changelog-generator-demo/commits/40abc0a71712f17ba1e3d50b024e820b722eb7ae))
+* wtf ([f07b202](https://github.com/mokkapps/changelog-generator-demo/commits/f07b202bf34bb23530e4272571d38ff0ef79c8cd))
+
 ## [2.1.0](https://github.com/mokkapps/changelog-generator-demo/compare/v2.0.0...v2.1.0) (2022-06-13)
 
 
