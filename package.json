@@ -1,0 +1,18 @@
+{
+  "name": "test-changelog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com-wholesome:wholesome-ghoul/test-changelog.git",
+  "author": "Wholesome Ghoul <wholesome.ghoul@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^17.0.2",
+    "@commitlint/config-conventional": "^17.0.2"
+  }
+}
